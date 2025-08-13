@@ -31,12 +31,12 @@ Su objetivo es permitir que cualquier persona pueda crear un sorteo de Amigo Sec
 ## 📷 Capturas de pantalla
 
 ### Pantalla inicial
-![Pantalla inicial](assets/amigo-secreto.png)
+![Pantalla de Inicio](assets/Principal.png)
 
 ### Agregando nombres
-*(Aquí puedes poner una imagen donde se vean varios nombres en la lista)*
+![Pantalla de Ingreso de Nombres](assets/Ingreso.png)
 
 ### Resultado del sorteo
-*(Aquí puedes poner una imagen mostrando el nombre sorteado con el mensaje 🎉)*
+![Pantalla de Sorteo del Nombres](assets/Sorteo.png)
 
 ---
